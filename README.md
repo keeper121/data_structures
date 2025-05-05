@@ -9,3 +9,4 @@ Implemented structures:
 - PriorityQueue
 - Queue
 - Stack
+- AVLTree
