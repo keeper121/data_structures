@@ -4,6 +4,7 @@ Implemented structures:
 - ArrayList
 - HashMap
 - LinkedHashMap
+- ConcurrentHashMap
 - LinkedList
 - PriorityQueue
 - Queue
